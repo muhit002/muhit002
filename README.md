@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm trying to be something in this small world</h1>
 <p>A passionate in coding and want to learn all the problem of this world</p>
-<img align="right" alt="coding" width "400" src="https://iconscout.com/lottie-animation/coding-error-8928574">
+<img align="right" alt="coding" width "400" src="http://cdn.dribble.com/users/1162077/screenshots/3848914/programer.gif">
 
 
 <h2>🚀 Languages and Tools I Use</h2>
