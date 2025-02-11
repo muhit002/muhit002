@@ -1,6 +1,5 @@
 <h1>Hi 👋, I'm trying to be something in this small world</h1>
 <p>A passionate in coding and want to learn all the problem of this world</p>
-<img align="right" alt="coding" width "400" src="https://www.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_4102879.htm#fromView=keyword&page=1&position=2&uuid=05982502-3aa5-47cd-8be3-9969b2f3f860&query=Coding+Animation">
 
 
 <h2>🚀 Languages and Tools I Use</h2>
